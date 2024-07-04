@@ -1,4 +1,4 @@
-1; //! 1.create your own resume data in JSON format:
+//! 1.create your own resume data in JSON format:
 
 let resumeData = {
   "name": "sowmi",
